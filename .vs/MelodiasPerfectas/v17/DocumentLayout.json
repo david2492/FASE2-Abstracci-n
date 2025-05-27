@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 2\\fase2\\MelodiasPerfectas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9750ED88-9798-452F-ABA5-A317BB111FA8}|MelodiasPerfectas\\MelodiasPerfectas.csproj|E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 2\\fase2\\MelodiasPerfectas\\melodiasperfectas\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9750ED88-9798-452F-ABA5-A317BB111FA8}|MelodiasPerfectas\\MelodiasPerfectas.csproj|solutionrelative:melodiasperfectas\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9750ED88-9798-452F-ABA5-A317BB111FA8}|MelodiasPerfectas\\MelodiasPerfectas.csproj|e:\\jonathan\\unad\\6 semestre\\estructura de datos\\fase 2\\fase2\\melodiasperfectas\\melodiasperfectas\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9750ED88-9798-452F-ABA5-A317BB111FA8}|MelodiasPerfectas\\MelodiasPerfectas.csproj|solutionrelative:melodiasperfectas\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9750ED88-9798-452F-ABA5-A317BB111FA8}|MelodiasPerfectas\\MelodiasPerfectas.csproj|E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 2\\fase2\\MelodiasPerfectas\\melodiasperfectas\\gestionestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9750ED88-9798-452F-ABA5-A317BB111FA8}|MelodiasPerfectas\\MelodiasPerfectas.csproj|solutionrelative:melodiasperfectas\\gestionestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9750ED88-9798-452F-ABA5-A317BB111FA8}|MelodiasPerfectas\\MelodiasPerfectas.csproj|E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 2\\fase2\\MelodiasPerfectas\\melodiasperfectas\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9750ED88-9798-452F-ABA5-A317BB111FA8}|MelodiasPerfectas\\MelodiasPerfectas.csproj|solutionrelative:melodiasperfectas\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9750ED88-9798-452F-ABA5-A317BB111FA8}|MelodiasPerfectas\\MelodiasPerfectas.csproj|E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 2\\fase2\\MelodiasPerfectas\\melodiasperfectas\\reporte.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,7 +35,7 @@
       "RelativeMoniker": "D:0:0:{9750ED88-9798-452F-ABA5-A317BB111FA8}|MelodiasPerfectas\\MelodiasPerfectas.csproj|solutionrelative:melodiasperfectas\\datos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9750ED88-9798-452F-ABA5-A317BB111FA8}|MelodiasPerfectas\\MelodiasPerfectas.csproj|e:\\jonathan\\unad\\6 semestre\\estructura de datos\\fase 2\\fase2\\melodiasperfectas\\melodiasperfectas\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{9750ED88-9798-452F-ABA5-A317BB111FA8}|MelodiasPerfectas\\MelodiasPerfectas.csproj|E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 2\\fase2\\MelodiasPerfectas\\melodiasperfectas\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{9750ED88-9798-452F-ABA5-A317BB111FA8}|MelodiasPerfectas\\MelodiasPerfectas.csproj|solutionrelative:melodiasperfectas\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Reporte.cs [Dise\u00F1o]",
               "DocumentMoniker": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 2\\fase2\\MelodiasPerfectas\\MelodiasPerfectas\\Reporte.cs",
               "RelativeDocumentMoniker": "MelodiasPerfectas\\Reporte.cs",
@@ -89,8 +89,7 @@
               "ToolTip": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 2\\fase2\\MelodiasPerfectas\\MelodiasPerfectas\\Form1.resx",
               "RelativeToolTip": "MelodiasPerfectas\\Form1.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-05-26T23:51:59.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T23:51:59.461Z"
             },
             {
               "$type": "Document",
@@ -102,8 +101,7 @@
               "RelativeToolTip": "MelodiasPerfectas\\Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T05:44:08.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T05:44:08.695Z"
             },
             {
               "$type": "Document",
@@ -115,18 +113,17 @@
               "RelativeToolTip": "MelodiasPerfectas\\Reporte.Designer.cs",
               "ViewState": "AgIAAMcAAAAAAAAAAAASwNsAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T05:37:22.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T05:37:22.489Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Reporte.cs",
               "DocumentMoniker": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 2\\fase2\\MelodiasPerfectas\\MelodiasPerfectas\\Reporte.cs",
               "RelativeDocumentMoniker": "MelodiasPerfectas\\Reporte.cs",
               "ToolTip": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 2\\fase2\\MelodiasPerfectas\\MelodiasPerfectas\\Reporte.cs",
               "RelativeToolTip": "MelodiasPerfectas\\Reporte.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAswBsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-14T05:37:04.247Z",
               "EditorCaption": ""
@@ -141,8 +138,7 @@
               "RelativeToolTip": "MelodiasPerfectas\\Datos.cs",
               "ViewState": "AgIAACkAAAAAAAAAAADwvzwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T02:29:17.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T02:29:17.621Z"
             },
             {
               "$type": "Document",
@@ -153,12 +149,11 @@
               "ToolTip": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 2\\fase2\\MelodiasPerfectas\\MelodiasPerfectas\\Datos.cs [Dise\u00F1o]",
               "RelativeToolTip": "MelodiasPerfectas\\Datos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T02:05:19.127Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-05-14T02:05:19.127Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GestionEstudiantes.cs",
               "DocumentMoniker": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 2\\fase2\\MelodiasPerfectas\\MelodiasPerfectas\\GestionEstudiantes.cs",
               "RelativeDocumentMoniker": "MelodiasPerfectas\\GestionEstudiantes.cs",
@@ -166,8 +161,7 @@
               "RelativeToolTip": "MelodiasPerfectas\\GestionEstudiantes.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAQwBQAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T02:28:37.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T02:28:37.767Z"
             },
             {
               "$type": "Document",
@@ -179,8 +173,7 @@
               "RelativeToolTip": "MelodiasPerfectas\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-05-27T00:04:19.364Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T00:04:19.364Z"
             },
             {
               "$type": "Document",
@@ -192,8 +185,7 @@
               "RelativeToolTip": "MelodiasPerfectas\\Datos.Designer.cs",
               "ViewState": "AgIAAOgAAAAAAAAAAAAAAOgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T02:25:32.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T02:25:32.25Z"
             },
             {
               "$type": "Document",
